@@ -1,0 +1,16 @@
+f1-dashboard-env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+cache/
+data/
+*.db
+*.sqlite
+*.sqlite3

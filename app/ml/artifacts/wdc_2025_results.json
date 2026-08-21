@@ -1,0 +1,128 @@
+[
+  {
+    "driver_id":5,
+    "driver_name":"Lando Norris",
+    "wdc_probability_pct":59.48,
+    "avg_final_points":458.4
+  },
+  {
+    "driver_id":7,
+    "driver_name":"Oscar Piastri",
+    "wdc_probability_pct":40.52,
+    "avg_final_points":452.7
+  },
+  {
+    "driver_id":1,
+    "driver_name":"Andrea Kimi Antonelli",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":113.0
+  },
+  {
+    "driver_id":14,
+    "driver_name":"Gabriel Bortoleto",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":28.0
+  },
+  {
+    "driver_id":27,
+    "driver_name":"Yuki Tsunoda",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":34.6
+  },
+  {
+    "driver_id":20,
+    "driver_name":"Lance Stroll",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":30.2
+  },
+  {
+    "driver_id":19,
+    "driver_name":"Fernando Alonso",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":37.1
+  },
+  {
+    "driver_id":18,
+    "driver_name":"Nico H\u00fclkenberg",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":34.4
+  },
+  {
+    "driver_id":17,
+    "driver_name":"Esteban Ocon",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":28.3
+  },
+  {
+    "driver_id":16,
+    "driver_name":"Alexander Albon",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":44.2
+  },
+  {
+    "driver_id":15,
+    "driver_name":"Carlos Sainz",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":38.0
+  },
+  {
+    "driver_id":12,
+    "driver_name":"Franco Colapinto",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":31.4
+  },
+  {
+    "driver_id":13,
+    "driver_name":"Oliver Bearman",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":23.6
+  },
+  {
+    "driver_id":2,
+    "driver_name":"Lewis Hamilton",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":107.3
+  },
+  {
+    "driver_id":10,
+    "driver_name":"Pierre Gasly",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":38.9
+  },
+  {
+    "driver_id":9,
+    "driver_name":"Liam Lawson",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":31.3
+  },
+  {
+    "driver_id":8,
+    "driver_name":"Isack Hadjar",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":54.2
+  },
+  {
+    "driver_id":6,
+    "driver_name":"Max Verstappen",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":344.2
+  },
+  {
+    "driver_id":4,
+    "driver_name":"Charles Leclerc",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":214.3
+  },
+  {
+    "driver_id":3,
+    "driver_name":"George Russell",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":272.7
+  },
+  {
+    "driver_id":32,
+    "driver_name":"Jack Doohan",
+    "wdc_probability_pct":0.0,
+    "avg_final_points":7.1
+  }
+]
